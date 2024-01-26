@@ -33,7 +33,6 @@
 							{{ __('Dokumentasi') }}
 						</x-nav-link>
 					</div>
-
 				</div>
 
 				<!-- Hamburger -->
