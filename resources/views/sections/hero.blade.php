@@ -2,7 +2,7 @@
 	<div class="flex min-h-screen flex-col justify-center px-5 py-10 pt-32 text-center">
 		<div class="hidden sm:mb-8 sm:flex sm:justify-center">
 			<div
-				class="ring-white-900/10 hover:ring-white-900/20 relative rounded-full px-3 py-1 text-sm leading-6 text-white ring-1">
+				class="ring-white-900/10 hover:ring-white-900/20 relative rounded-full px-3 py-1 text-sm leading-6 text-black ring-1">
 				New Generation ISCOM 2024
 			</div>
 		</div>
